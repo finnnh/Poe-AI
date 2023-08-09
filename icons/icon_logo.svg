@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.660452mm"
+   height="25.660969mm"
+   viewBox="0 0 25.660452 25.660969"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.519587,-40.426989)">
+    <g
+       id="g1176">
+      <path
+         id="rect963"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0"
+         d="m 18.544604,40.42699 c -2.783995,0 -5.025016,2.241537 -5.025016,5.025533 v 15.6099 c 0,2.783995 2.241021,5.025533 5.025016,5.025533 h 15.610417 c 2.783996,0 5.025016,-2.241538 5.025016,-5.025533 v -15.6099 c 0,-2.783996 -2.24102,-5.025533 -5.025016,-5.025533 z m 7.800041,2.926953 3.495394,3.161047 4.651396,0.75861 -0.291972,4.703589 2.307353,4.10931 -3.859713,2.704744 -1.774052,4.365625 -4.521171,-1.331184 -4.519621,1.334802 -1.777669,-4.364592 -3.86178,-2.701127 2.303735,-4.111377 -0.295589,-4.703589 4.650879,-0.76171 z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:14.1111px;font-family:Caladea;-inkscape-font-specification:'Caladea, Bold';fill:#ffffff;stroke:#000000;stroke-width:0"
+         x="21.349575"
+         y="58.930096"
+         id="text1120"><tspan
+           sodipodi:role="line"
+           id="tspan1118"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="21.349575"
+           y="58.930096">P</tspan></text>
+    </g>
+  </g>
+</svg>
