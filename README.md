@@ -4,6 +4,8 @@
 
 This Software is developed using Electron JS. It is an Voice Assistant that helps to optimize the workflow with speech commands.
 
+the node_modules Folder is currently missing in the repo cause of its big size :/
+
 ## Features
 
 - Create Projects (Electron JS, NextJS, React, etc.)
