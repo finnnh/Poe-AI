@@ -9,7 +9,7 @@
   "author": "Finn Hoffmann",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^25.4.0"
+    "electron": "^25.8.4"
   },
   "dependencies": {
     "@tensorflow-models/speech-commands": "^0.5.4",
